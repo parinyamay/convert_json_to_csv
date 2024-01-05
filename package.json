@@ -1,0 +1,16 @@
+{
+  "name": "convert_json_to_csv",
+  "version": "1.0.0",
+  "main": "jsonToCsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
